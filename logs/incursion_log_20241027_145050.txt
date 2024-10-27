@@ -1,0 +1,49 @@
+Initial Room 1: Corruption Chamber
+Initial Room 2: Pits
+Initial Room 3: Gemcutter's Workshop
+Initial Room 4: Sparring Room
+Initial Room 5: Chasm
+Initial Room 6: Banquet Hall
+Initial Room 7: Tombs
+Initial Room 8: Lightning Workshop
+Initial Room 9: Strongbox Chamber
+Initial Room 10: Passageways
+Initial Room 11: Cellar
+Incursion 1/12:
+Upgraded Gemcutter's Workshop to Department of Thaumaturgy (Tier 2).
+Alternative Change Option was: Hatchery
+Incursion 2/12:
+Changed Pits to Armourer's Workshop (Tier 1).
+Alternative Change Option was: Splinter Research Lab
+Incursion 3/12:
+Changed Chasm to Storage Room (Tier 1).
+Alternative Change Option was: Jeweller's Workshop
+Incursion 4/12:
+Upgraded Strongbox Chamber to Hall of Locks (Tier 2).
+Alternative Change Option was: Vault
+Incursion 5/12:
+Upgraded Armourer's Workshop to Armoury (Tier 2).
+Alternative Change Option was: Tempest Generator
+Incursion 6/12:
+Changed Tombs to Trap Workshop (Tier 1).
+Alternative Change Option was: Flame Workshop
+Incursion 7/12:
+Upgraded Sparring Room to Arena of Valour (Tier 2).
+Alternative Change Option was: Pools of Restoration
+Incursion 8/12:
+Upgraded Department of Thaumaturgy to Doryani's Institute (Tier 3).
+Alternative Change Option was: Shrine of Empowerment
+Incursion 9/12:
+Upgraded Lightning Workshop to Omnitect Reactor Plant (Tier 2).
+Alternative Change Option was: Workshop
+Incursion 10/12:
+Changed Cellar to Poison Garden (Tier 1).
+Alternative Change Option was: Torment Cells
+Incursion 11/12:
+Upgraded Corruption Chamber to Catalyst of Corruption (Tier 2).
+Alternative Change Option was: Royal Meeting Room
+Atlas Upgrade in Room 1:
+Atlas Upgraded: Catalyst of Corruption upgraded to Locus of Corruption (Tier 3).
+Incursion 12/12:
+Upgraded Trap Workshop to Temple Defense Workshop (Tier 2).
+Alternative Change Option was: Surveyor's Study
